@@ -1459,7 +1459,7 @@ window.zESettings = {
 		<div class="surviceWp">
 			<div class="hr_alink" id="surviceWp"></div><!-- 20171010 추가 -->
 			<div class="hpBx">
-				<h3>플로우 요금제</h3>
+				<h3>tt플로우 요금제</h3>
 				<h5>플로우 비즈니스로 업무 능률을 한 단계 끌어 올리세요!</h5>
 				<!-- 20171010 삭제 <div class="btnBx">
 					<a href="#none" class="btn01">자세히 보기</a>
