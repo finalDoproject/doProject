@@ -1401,7 +1401,7 @@ window.zESettings = {
 							<div class="slides slide1">
 								<div class="slide_inner">
 									<div class="detail">
-										<h3>이메일 보다 히스토리가 편리한 '타임라인'</h3>
+										<h3>aaa이메일 보다 히스토리가 편리한 '타임라인'</h3>
 										<h5>프로젝트 또는 업무과제별로 참여자들이 모여서 타임라인을 통해 커뮤니케이션 함으로써<br>히스토리를 파악하고 정보를 모아 보는데 탁월합니다.</h5>
 									</div>
 								</div>
