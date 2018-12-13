@@ -1380,7 +1380,7 @@ window.zESettings = {
 		<div class="freeStartWp" id="">
 			<div class="hpBx">
 				<h2>혁신가를 위한 업무용 협업툴</h2>
-				<h4>플로우는 협업 스타일을 혁신하고,<br>업무 히스토리가 잘 정리될 수 있도록 도와드립니다.</h4>
+				<h4>플로우는 협업 스타일을 혁신하고,<br>업무 히스토리가11111 잘 정리될 수 있도록 도와드립니다.</h4>
 				<div class="btnBx">
 					<a href="/login.act?BIS_MNGR_SIGNUP=Y" class="btn01 arrowleft_wh">무료로 시작</a>
 				</div>
