@@ -1437,7 +1437,7 @@ window.zESettings = {
 							<div class="slides slide5">
 								<div class="slide_inner">
 									<div class="detail">
-										<h3>업무 내용을 명확히 알 수 있는 '업무처리'</h3>
+										<h3>11업무 내용을 명확히 알 수 있는 '업무처리'</h3>
 										<h5>업무의 요청단계부터 완료단계까지 유기적인 협업이 가능하며,<br>내업무, 내가 요청한 업무의 진행상태를 한눈에 파악할 수 있습니다.</h5>
 									</div>
 								</div>
