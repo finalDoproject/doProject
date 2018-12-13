@@ -1380,7 +1380,7 @@ window.zESettings = {
 		<div class="freeStartWp" id="">
 			<div class="hpBx">
 				<h2>혁신가를 위한 업무용 협업툴</h2>
-				<h4>플로우는 협업 스타일을 혁신하고,<br>업무 히스토리가 잘 정리될 수 있도록 도와드립니다.</h4>
+				<h4>플로우는 협업 스타일을 혁신하고,<br>업무 히스토리가11111 잘 정리될 수 있도록 도와드립니다.</h4>
 				<div class="btnBx">
 					<a href="/login.act?BIS_MNGR_SIGNUP=Y" class="btn01 arrowleft_wh">무료로 시작</a>
 				</div>
@@ -1401,7 +1401,7 @@ window.zESettings = {
 							<div class="slides slide1">
 								<div class="slide_inner">
 									<div class="detail">
-										<h3>이메일 보다 히스토리가 편리한 '타임라인'</h3>
+										<h3>aaa이메일 보다 히스토리가 편리한 '타임라인'</h3>
 										<h5>프로젝트 또는 업무과제별로 참여자들이 모여서 타임라인을 통해 커뮤니케이션 함으로써<br>히스토리를 파악하고 정보를 모아 보는데 탁월합니다.</h5>
 									</div>
 								</div>
@@ -1437,7 +1437,7 @@ window.zESettings = {
 							<div class="slides slide5">
 								<div class="slide_inner">
 									<div class="detail">
-										<h3>업무 내용을 명확히 알 수 있는 '업무처리'</h3>
+										<h3>11업무 내용을 명ggg확히 알 수 있는 '업무처리'</h3>
 										<h5>업무의 요청단계부터 완료단계까지 유기적인 협업이 가능하며,<br>내업무, 내가 요청한 업무의 진행상태를 한눈에 파악할 수 있습니다.</h5>
 									</div>
 								</div>
