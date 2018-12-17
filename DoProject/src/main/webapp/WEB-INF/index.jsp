@@ -1080,7 +1080,7 @@ window.zESettings = {
 		            }  
 		            return rtnval;  
 		        }  
-		    }  
+		    };  
 		var request = new Request();  
 		if(request.getParameter('move') == "ebadom"){
 			ebadomPopUp();
@@ -1380,7 +1380,7 @@ window.zESettings = {
 		<div class="freeStartWp" id="">
 			<div class="hpBx">
 				<h2>혁신가를 위한 업무용 협업툴</h2>
-				<h4>플로우는 협업 스타일을 혁신하고,<br>업무 히스토리가11111 잘 정리될 수 있도록 도와드립니다.</h4>
+				<h4>플로우는 협업 스타일을 혁신하고,<br>업무 히스토리가 잘 정리될 수 있도록 도와드립니다.</h4>
 				<div class="btnBx">
 					<a href="/login.act?BIS_MNGR_SIGNUP=Y" class="btn01 arrowleft_wh">무료로 시작</a>
 				</div>
@@ -1609,6 +1609,12 @@ window.zESettings = {
 		<!-- //popup wrap -->
 	</div>
 	<!-- //popup -->
-
+	<button type="button" id="popupBtn" style="border:1px solid black;" onclick="popUp();">채팅</button>
+	<script>
+		function popUp(){
+			console.log("클릭");
+			window.open('${pageContext.request.contextPath}/chat/chat.ch','채팅','width=800 height=600');
+		}
+	</script>
 </body>
 </html>
