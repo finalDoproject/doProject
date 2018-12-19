@@ -1365,7 +1365,7 @@ window.zESettings = {
 				</div>
 				<!-- 20171010 수정 -->
 				<div class="mlist">
-					<a href="/index.html#fullPageWp" class="on">기능소개</a>
+					<a href="${pageContext.request.contextPath}/task/taskForm.do" class="on">기능소개</a>
 					<a href="/index.html#applicWp">활용사례</a>
 					<a href="/index.html#reviewWp">리뷰</a>
 					<a href="/index.html#surviceWp">요금제</a>
