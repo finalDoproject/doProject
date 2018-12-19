@@ -89,7 +89,7 @@
 					.appendTo($head);
 
 		// Toggle.
-			$('<a href="#sidebar" class="toggle">Toggle</a>')
+			$('<img src="resources/images/menu.png" class="toggle" />')
 				.appendTo($sidebar)
 				.on('click', function(event) {
 

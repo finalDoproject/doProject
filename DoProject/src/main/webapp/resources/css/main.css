@@ -3096,6 +3096,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		position: relative;
 		width: 26em;
+		background-image: url("resources/images/menu.png");
 	}
 
 		#sidebar h2 {
@@ -3152,6 +3153,7 @@ input, select, textarea {
 			top: 0;
 			width: 6em;
 			z-index: 10000;
+
 		}
 
 			#sidebar .toggle:before {
